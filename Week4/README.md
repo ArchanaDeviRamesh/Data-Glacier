@@ -19,10 +19,12 @@ conda create -p venv python==3.8
 pip install -r requirements.txt
 ``` 
 
-3. iris_model file contains the python file to train the model for iris flower detection and creating the pickle file
+3. iris_model.py file contains the python file to train the model for iris flower detection and creating the pickle file
+(iris_model.ipynb is the equivalent notebook file)
 
 4. run app.py file to run the model in server for prediction
 
 ```
 python app.py
 ``` 
+
